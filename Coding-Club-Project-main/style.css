@@ -1,0 +1,21 @@
+body{
+    background: purple;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.title{
+    color: white;
+}
+
+.top-menu{
+    display: flex;
+    gap: 30px;
+    .list-menu a{
+        color: white;
+    }
+
+}
+
+.box{
+    
+}
